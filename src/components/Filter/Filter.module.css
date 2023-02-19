@@ -1,0 +1,7 @@
+.Filter {
+  display: flex;
+  flex-direction: column;
+}
+.FilterInput {
+  width: 200px;
+}

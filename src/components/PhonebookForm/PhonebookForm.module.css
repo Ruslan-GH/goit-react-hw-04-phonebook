@@ -1,0 +1,10 @@
+.Label {
+  display: flex;
+  width: 200px;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.Button {
+  margin-top: 20px;
+}
